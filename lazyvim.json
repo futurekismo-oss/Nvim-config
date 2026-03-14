@@ -1,0 +1,13 @@
+{
+  "extras": [
+    "lazyvim.plugins.extras.coding.yanky",
+    "lazyvim.plugins.extras.editor.dial",
+    "rafi.plugins.extras.coding.emmet",
+    "rafi.plugins.extras.colorscheme.cyberdream"
+  ],
+  "install_version": 8,
+  "news": [
+
+  ],
+  "version": 8
+}
